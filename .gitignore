@@ -54,10 +54,15 @@ Build/*
 AtHome-SpaceUpgrade/Saved/*
 AtHome-SpaceUpgrade/Saved/Config/*
 AtHome-SpaceUpgrade/Saved/Logs/*
+Saved/*
+Saved/Config/*
+Saved/Logs/*
 
 # Compiled source files for the engine to use
 AtHome-SpaceUpgrade/Intermediate/*
 AtHome-SpaceUpgrade/Intermediate/Config/*
+Intermediate/*
+Intermediate/Config/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
